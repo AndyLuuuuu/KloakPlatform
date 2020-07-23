@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"module": "CommonJS",
+		"target": "ES2020"
+	},
+	"include": [
+		"index.ts",
+		"cli.ts",
+		"app/**/*.ts"
+	]
+}
